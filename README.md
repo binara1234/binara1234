@@ -46,5 +46,5 @@
 ---
 
 ### 📬 Connect With Me
-- **LinkedIn:** [linkedin.com/in/binara-amarasinghe](https://linkedin.com/in/binara-amarasinghe)
+- **LinkedIn:** [linkedin.com/in/binara-amarasinghe](www.linkedin.com/in/binara-amarasinghe-79a0b1260)
   
