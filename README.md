@@ -1,22 +1,50 @@
-<h1 align="center">Hi 👋, I'm Binara Amarasinghe</h1>
-<h3 align="center">A passionate cyber security analysist from United kingdom</h3>
+# Hi, I'm Binara Amarasinghe 👋
+**Computer Science with Cyber Security | Software Engineering & Security Tooling**  
+📍 Huddersfield, United Kingdom  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binara1234&label=Profile%20views&color=0e75b6&style=flat" alt="binara1234" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binara-amarasinghe)
+[![Portfolio](https://img.shields.io/badge/Live_App-indevo.me-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://indevo.me)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binara1234" alt="binara1234" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/binna2k05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binna2k05" height="30" width="40" /></a>
-<a href="https://discord.gg/binna2k05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="binna2k05" height="30" width="40" /></a>
-</p>
+### 🛡️ About Me
+- 🎓 BSc (Hons) Computer Science with Cyber Security student at the **University of Huddersfield** (First-Class standing, 78%+ in Year 1).
+- 🔐 Practical background across **Full-Stack Development**, **Digital Forensics (86% / A)**, and **Software Security**.
+- 🚀 Co-developed and deployed **[indevo.me](https://indevo.me)**, a live personal finance and skill-building web application.
+- 🎯 Preparing for UK Graduate Technology, Security Analyst, and Software Engineering roles (2027 intake).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binara1234&show_icons=true&locale=en&layout=compact" alt="binara1234" /></p>
+### 🧰 Technical Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binara1234&show_icons=true&locale=en" alt="binara1234" /></p>
+- **Languages:** Python, JavaScript (ES6+), PHP, SQL, HTML5, CSS3
+- **Frameworks & Databases:** Vue.js, PrimeVue, Laravel, MySQL
+- **Forensics & Systems:** Digital Forensics, Linux CLI (Bash), Log Parsing, Operating Systems
+- **Tools:** Git, GitHub, VS Code, WebStorm
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binara1234&" alt="binara1234" /></p>
+---
 
+### 🚀 Key Projects
+
+#### 🔹 [Indevo — Personal Finance & Life Skills Platform](https://indevo.me)
+*Collaborative full-stack web application deployed live in production.*
+- Built responsive user interfaces and modular components using modern JavaScript frameworks.
+- Implemented core budgeting logic, habit tracking, and embedded multimedia learning modules.
+- **Live URL:** [indevo.me](https://indevo.me)
+
+#### 🔹 Automated Supply Chain Security & Package Scanner *(Dissertation Project)*
+*Static analysis and automated threat detection in open-source software.*
+- Developing an Abstract Syntax Tree (`ast`) inspection engine in Python to analyze untrusted packages before runtime.
+- Identifies suspicious behavioral indicators including code obfuscation (`eval`/`exec`) and unauthorized socket calls.
+- Benchmarked against documented malicious package repositories.
+
+#### 🔹 Full-Stack Restaurant Ordering System
+*Dynamic online ordering web application with relational database backend.*
+- Engineered an interactive menu and checkout workflow using PHP, JavaScript, and MySQL.
+- Handled menu item inventory, user inputs, and database records.
+
+---
+
+### 📬 Connect With Me
+- **LinkedIn:** [linkedin.com/in/binara-amarasinghe](https://linkedin.com/in/binara-amarasinghe)
+- **University Email:** U2555964@unimail.hud.ac.uk
