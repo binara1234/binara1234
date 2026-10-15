@@ -8,7 +8,7 @@
 ---
 
 ### 🛡️ About Me
-- 🎓 BSc (Hons) Computer Science with Cyber Security student at the **University of Huddersfield** (First-Class standing, 78%+ in Year 1).
+- 🎓 Final-year BSc (Hons) Computer Science with Cyber Security student at the **University of Huddersfield** (On track for First-Class Honours / 1st).
 - 🔐 Practical background across **Full-Stack Development**, **Digital Forensics (86% / A)**, and **Software Security**.
 - 🚀 Co-developed and deployed **[indevo.me](https://indevo.me)**, a live personal finance and skill-building web application.
 - 🎯 Preparing for UK Graduate Technology, Security Analyst, and Software Engineering roles (2027 intake).
