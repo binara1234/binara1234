@@ -47,4 +47,4 @@
 
 ### 📬 Connect With Me
 - **LinkedIn:** [linkedin.com/in/binara-amarasinghe](https://linkedin.com/in/binara-amarasinghe)
-- **University Email:** U2555964@unimail.hud.ac.uk
+  
