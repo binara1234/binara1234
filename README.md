@@ -28,13 +28,6 @@
 
 ### 🚀 Key Projects
 
-#### 🔹 Supply Chain Security Scanner & AI Assistant for Healthcare IoT *(Final Year Dissertation)*
-*Offline-capable, lightweight static analysis and threat evaluation tool for medical and critical infrastructure.*
-- Implements Python Abstract Syntax Tree (`ast`) parsing to statically evaluate third-party packages for malicious indicators without runtime code execution.
-- Designed specifically for low-infrastructure and regulated environments (Healthcare / Medical IoT), operating fully offline without external API dependencies.
-- Integrates an AI security assistant layer to translate low-level code anomalies and supply chain risks into actionable, plain-English impact summaries for clinical and IT administrators.
-- Benchmarked against curated repositories of real-world malicious open-source packages.
-
 #### 🔹 [Indevo — Personal Finance & Life Skills Platform](https://indevo.me)
 *Collaborative full-stack web application deployed live in production[cite: 2].*
 - Built responsive user interfaces and modular components using modern JavaScript frameworks[cite: 2].
