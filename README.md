@@ -8,38 +8,43 @@
 ---
 
 ### 🛡️ About Me
-- 🎓 Final-year BSc (Hons) Computer Science with Cyber Security student at the **University of Huddersfield** (On track for First-Class Honours / 1st).
-- 🔐 Technical background spanning **Application & Supply Chain Security**, **Digital Forensics (86% / A)**, and **Full-Stack Development**.
-- 🏥 Developing a specialized, offline-capable supply chain security scanner and AI risk assistant designed for **Healthcare & Medical IoT** ecosystems.
-- 🚀 Co-developed and deployed **[indevo.me](https://indevo.me)**, a live personal finance and skill-building web application[cite: 2].
+- 🎓 Final-year BSc (Hons) Computer Science with Cyber Security student at the **University of Huddersfield**.
+- 🏆 Consistently on track for **First-Class Honours (1st)** — achieved an **85% Year 2 average** with straight Grade As across all modules.
+- 🔐 Hands-on technical background spanning **Full-Stack Development**, **Digital Forensics (86% / Grade A)**, and **Operating Systems (95% / Grade A)**.
+- 🚀 Co-developed and deployed **[indevo.me](https://indevo.me)**, a live personal finance and skill-building web application.
 - 🎯 Seeking UK Graduate Cyber Security, AppSec, and Software Engineering roles (2027 intake).
 
 ---
 
 ### 🧰 Technical Skills
 
-- **Languages:** Python, JavaScript (ES6+), PHP, SQL, HTML5, CSS3[cite: 1]
-- **Frameworks & Databases:** Vue.js, PrimeVue, Laravel, MySQL[cite: 1]
-- **Forensics & Systems:** Digital Forensics, Linux CLI (Bash), Log Parsing, Operating Systems[cite: 1]
-- **Specialisms:** Static Code Analysis (AST), Healthcare / Medical IoT Security, Applied AI for Security
-- **Tools:** Git, GitHub, VS Code, WebStorm[cite: 1]
+- **Languages:** Python, JavaScript (ES6+), PHP, SQL, HTML5, CSS3
+- **Frameworks & Databases:** Vue.js, PrimeVue, Laravel, MySQL
+- **Forensics & Systems:** Digital Forensics, Linux CLI (Bash), Log Parsing, Operating Systems Architecture
+- **Tools & Environments:** Git, GitHub, VS Code, WebStorm
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Featured Projects
 
 #### 🔹 [Indevo — Personal Finance & Life Skills Platform](https://indevo.me)
-*Collaborative full-stack web application deployed live in production[cite: 2].*
-- Built responsive user interfaces and modular components using modern JavaScript frameworks[cite: 2].
-- Implemented core budgeting logic, habit tracking, and embedded multimedia learning modules[cite: 2].
-- **Live URL:** [indevo.me](https://indevo.me)[cite: 2]
+*Collaborative full-stack web application deployed live in production.*
+- Architected and built responsive user interfaces using Vue.js and PrimeVue.
+- Implemented budgeting logic, personal goal-setting workflows, and embedded interactive modules.
+- **Live URL:** [indevo.me](https://indevo.me)
 
 #### 🔹 Full-Stack Restaurant Ordering System
-*Dynamic online ordering web application with relational database backend[cite: 2].*
-- Engineered an interactive menu and checkout workflow using PHP, JavaScript, and MySQL[cite: 2].
-- Handled menu item inventory, user inputs, and database records[cite: 2].
+*Dynamic web ordering portal with relational database architecture.*
+- Engineered an end-to-end web portal using PHP, modern JavaScript, HTML5, and CSS3.
+- Integrated a MySQL relational backend to manage customer orders, menus, and transaction state.
+
+#### 🔹 Systems & Log Forensics Tooling
+*Practical scripts and investigative workflows for system monitoring and log parsing.*
+- Built Bash and Python scripts to extract authentication anomalies and failed access patterns from Linux host logs.
+- Analyzed file system artifacts, access logs, and process states aligning with core forensic principles.
 
 ---
 
 ### 📬 Connect With Me
 - **LinkedIn:** [linkedin.com/in/binara-amarasinghe-79a0b1260](https://www.linkedin.com/in/binara-amarasinghe-79a0b1260)
+- **Personal Email:** binara2k05amarasinghe@gmail.com
